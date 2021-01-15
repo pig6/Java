@@ -9,6 +9,6 @@
   <a href="https://www.zhihu.com/people/pig66/posts"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue" alt="知乎"></a>
   <a href="https://pig66.blog.csdn.net"><img src="https://img.shields.io/badge/csdn-CSDN-orange" alt="CSDN"></a>
   <a href="https://my.oschina.net/pig66"><img src="https://img.shields.io/badge/oschina-%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD-green" alt="开源中国"></a>
-  <a href="https://segmentfault.com/u/pig66"><img src="https://img.shields.io/badge/segmentfault-%E6%80%9D%E5%90%A6-darkgreen" alt="思否"></a>
-  <a href="https://www.imooc.com/u/7810820"><img src="https://img.shields.io/badge/mooc-%E6%85%95%E8%AF%BE%E7%BD%91-red" alt="慕课网"></a>
+  <a href="https://segmentfault.com/u/pig66/articles"><img src="https://img.shields.io/badge/segmentfault-%E6%80%9D%E5%90%A6-darkgreen" alt="思否"></a>
+  <a href="https://www.imooc.com/u/7810820/articles"><img src="https://img.shields.io/badge/mooc-%E6%85%95%E8%AF%BE%E7%BD%91-red" alt="慕课网"></a>
 </p>
